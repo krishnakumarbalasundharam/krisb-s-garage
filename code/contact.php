@@ -1,0 +1,14 @@
+<style>
+    #contact{
+        color:gray;
+    }
+</style>
+<?php
+include('index.html')
+?>
+<?php
+include('contact.html')
+?>
+<?php
+include('footer.html')
+?>

@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#help{
+    background-image: url(img/bghome.jpg);
+    background-size:100%;
+    background-position: fixed;
+    /* background-repeat: no-repeat; */
+color: violet;
+font-family: cursive;
+}
+.q,.ans{
+
+    border: solid gray 3px;
+    padding: 20px;
+    box-shadow:  5px 5px black;
+}
+#faq,#tips{
+margin-top: 30px;
+}
+/* summary::marker{
+    content: '#';
+} */
+#welcome p{
+    margin-top: 10px;
+    background-color: rgba(0,0,0, 0.8);
+}
+#welcome,#faq,#tips{
+   
+    width: 80%;
+    margin-left: 10%;
+}
+#welcome p{
+    border: solid gray;
+}
+.q{
+    background-color: rgba(0,0,0, 0.7);
+
+}
+.q b{
+    cursor: pointer;
+    color: salmon;
+}
+#help h1,h2,h3{
+color: red;
+}
+.ans{
+    color: white;
+    background-color: rgba(73, 11, 11, 0.7);
+
+}
+#tips{
+     color: white;
+}

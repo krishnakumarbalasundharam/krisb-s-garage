@@ -1,0 +1,33 @@
+.contact{
+    background-image: url(img/bghome.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.address, .contactdetails, .queries{
+    margin-top: 15px;
+    margin-left: 15%;
+}
+.queries input{
+    margin-top: 30px;
+    padding-bottom: 70px;
+    padding-top: 10px;
+    padding-right: 60%;
+    border-radius: 5%;
+    background:rgba(255, 255, 255, 0.6);
+    color: black;
+}
+.queries button{
+   background-color: red;
+   color: white;
+   position: relative;
+   left: 1%;
+   padding: 4px;
+   border-radius: 20%;
+   margin-top: 5px;
+}
+.contactdetails a{
+    text-decoration: none;
+    color: white;
+
+}

@@ -1,0 +1,14 @@
+.sbody{
+    background-image: linear-gradient(to right,maroon,black);
+}
+.srow1,.srow2{
+    display: flex;
+    justify-content: center;
+}
+
+.scol a img{
+    cursor: pointer;
+    height: 250px;
+    width: 400px;
+    border: solid black  3px;
+}

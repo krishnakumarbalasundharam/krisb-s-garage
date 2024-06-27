@@ -1,0 +1,14 @@
+<?php
+include('index.html')
+?>
+<style>
+    #service{
+        color:gray;
+    }
+</style>
+<?php
+include('service.html')
+?>
+<?php
+include('footer.html')
+?>
